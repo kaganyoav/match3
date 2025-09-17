@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77feafe89da444b2be0dad181ca4677a, type: 3}
+  m_Name: BoardConfig
+  m_EditorClassIdentifier: 
+  rows: 7
+  cols: 7
+  cellSize: 1
+  cellSpacing: {x: 0.05, y: 0.05}
+  cellPrefab: {fileID: 1571952192857609475, guid: 348853bed62dd714fbf8d56d60fbfa8d, type: 3}
+  tilePrefabs: []
